@@ -2,18 +2,18 @@
 
 ## Assessment Links
 
-- [Assessment 1](./assessment-1)
-- [Assessment 2](./assessment-2)
-- [Assessment 3](./assessment-3)
-- [Assessment 4](./assessment-4)
-- [Assessment 5](./assessment-5)
-- [Assessment 6](./assessment-6)
-- [Assessment 7](./assessment-7)
-- [Assessment 8](./assessment-8)
-- [Assessment 9](./assessment-9)
-- [Assessment 10](./assessment-10)
-- [Assessment 11](./assessment-11)
-- [Assessment 12](./assessment-12)
+- [Assessment 1](./assessment-1.md)
+- [Assessment 2](./assessment-2.md)
+- [Assessment 3](./assessment-3.md)
+- [Assessment 4](./assessment-4.md)
+- [Assessment 5](./assessment-5.md)
+- [Assessment 6](./assessment-6.md)
+- [Assessment 7](./assessment-7.md)
+- [Assessment 8](./assessment-8.md)
+- [Assessment 9](./assessment-9.md)
+- [Assessment 10](./assessment-10.md)
+- [Assessment 11](./assessment-11.md)
+- [Assessment 12](./assessment-12.md)
 
 ## Submission Guidelines
 
