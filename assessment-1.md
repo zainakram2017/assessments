@@ -27,7 +27,7 @@
 4. Assuming the size of data types required in memory is 1B,4B,8B for Character, integer and double respectively. How many bytes the following declaration required  
 
    ```javascript
-   int x,y,z;
+   var x,y,z;
    char a,b;
    double j,k;
    ```
@@ -35,9 +35,9 @@
 5. How would you consolidate the following definitions into one statement.  
 
    ```javascript
-   int x = 7;
-   int y = 20;
-   int z = 28;
+   var x = 7;
+   var y = 20;
+   var z = 28;
    ```
 
 6. How many operands does each of the following types of operator require?  
