@@ -24,13 +24,7 @@
    'A'  
    "A"
 
-4. Assuming the size of data types required in memory is 1B,4B,8B for Character, integer and double respectively. How many bytes the following declaration required  
-
-   ```javascript
-   var x,y,z;
-   char a,b;
-   double j,k;
-   ```
+4. Write a program that declares variables of different data types and prints their types to the console. Additionally, explain the difference between reference types and value types in your own words.
 
 5. How would you consolidate the following definitions into one statement.  
 
